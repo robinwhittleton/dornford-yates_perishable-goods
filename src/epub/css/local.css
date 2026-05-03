@@ -29,3 +29,25 @@ section[epub|type~="dedication"] > *{
 	}
 }
 /* End centered dedications */
+
+footer{
+	margin-top: 1em;
+	text-align: right;
+}
+
+[epub|type~="z3998:salutation"] + p{
+	text-indent: 0;
+}
+
+p[epub|type~="z3998:salutation"],
+p[epub|type~="z3998:signature"]{
+	font-variant: small-caps;
+}
+
+.telegram{
+	font-variant: all-small-caps;
+}
+
+#chapter-1 > blockquote:last-child{
+	font-style: italic;
+}
