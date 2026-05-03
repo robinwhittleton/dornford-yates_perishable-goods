@@ -30,6 +30,18 @@ section[epub|type~="dedication"] > *{
 }
 /* End centered dedications */
 
+header{
+	font-variant: small-caps;
+	margin: 1em;
+	text-align: center;
+}
+
+[epub|type~="z3998:letter"] header{
+	font-variant: normal;
+	margin: 0;
+	text-align: right;
+}
+
 footer{
 	margin-top: 1em;
 	text-align: right;
