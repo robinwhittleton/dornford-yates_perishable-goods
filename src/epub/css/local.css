@@ -64,6 +64,14 @@ p[epub|type~="z3998:signature"]{
 	font-variant: all-small-caps;
 }
 
+#chapter-1 > blockquote:nth-of-type(3) > p{
+	float: left;
+}
+
+#chapter-1 > blockquote:nth-of-type(3) > footer{
+	margin-top: 0;
+}
+
 #chapter-1 > blockquote:last-child{
 	font-style: italic;
 }
