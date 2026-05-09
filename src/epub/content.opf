@@ -29,20 +29,21 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">Perishable Goods</dc:title>
 		<meta property="file-as" refines="#title">Perishable Goods</meta>
-		<dc:subject id="subject-1">SUBJECT_1</dc:subject>
-		<dc:subject id="subject-2">SUBJECT_2</dc:subject>
+		<dc:subject id="subject-1">Adventure stories</dc:subject>
+		<dc:subject id="subject-2">Kidnapping in literature</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
-		<meta property="term" refines="#subject-1">SUBJECT_1_LCSH_ID</meta>
+		<meta property="term" refines="#subject-1">sh85001072</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
-		<meta property="term" refines="#subject-2">SUBJECT_2_LCSH_ID</meta>
+		<meta property="term" refines="#subject-2">sh2011001185</meta>
 		<meta property="se:subject">Adventure</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta id="collection" property="belongs-to-collection">Richard Chandos</meta>
 		<meta property="collection-type" refines="#collection">series</meta>
 		<meta property="group-position" refines="#collection">2</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A group of men hunt for the kidnappers of a friend’s wife.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;A robbery has left Mansel worried: they’ve taken none of the money in his safe, just a bundle of letters. The thieves however knew specifically what they were looking for: the letters were from the wife of a close friend, and Mansel’s worried that the contents have exposed his weakness to his enemies. Sure enough, when Adèle Pleydell goes missing during a ride on holiday in Austria and a ransom demand for half a million pounds arrives, it’s obvious who’s behind this. The next day, his friends and trusty dog are back in the Rolls and speeding through Europe on a rescue mission.&lt;/p&gt;
+			&lt;p&gt;In &lt;i&gt;Perishable Goods&lt;/i&gt;, set six months after the events of &lt;a href="https://standardebooks.org/ebooks/dornford-yates/blind-corner"&gt;&lt;i&gt;Blind Corner&lt;/i&gt;&lt;/a&gt;, we see &lt;a href="https://standardebooks.org/collections/richard-chandos"&gt;Richard Chandos&lt;/a&gt; and friends once again pitted against the inimitable Rose Noble. &lt;a href="https://standardebooks.org/ebooks/dornford-yates"&gt;Dornford Yates&lt;/a&gt;, buoyed by the success of the first Chandos novel from the year before, brought the same characters together again, but this time the protagonists are not motivated by money but by love. Many themes remain the same though: struggles against a powerful enemy, desperate escapes from impossible situations, and of course the great houses of Austria, which are almost a character in themselves.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.fadedpage.com/showbook.php?pid=20150435</dc:source>
