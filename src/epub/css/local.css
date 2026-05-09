@@ -30,6 +30,10 @@ section[epub|type~="dedication"] > *{
 }
 /* End centered dedications */
 
+section[epub|type~="dedication"] > p{
+	font-variant: small-caps;
+}
+
 header{
 	font-variant: small-caps;
 	margin: 1em;
